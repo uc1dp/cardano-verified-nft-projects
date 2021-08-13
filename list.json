@@ -42,5 +42,17 @@
     "url": "https://timetrotters.io",
     "twitter": "https://twitter.com/Time_Trotters",
     "voteAddress": "addr1qxvk9q87jagwng60zstpd3shqsmppguw0ducrr7nsuddur7qv8k55etg7xam7nmg7xkurgdk8vrjj2pqfsspgk5xv29q9ssmp7"
-  }
+  },
+    {
+    "name": "ADACoins",
+    "policies": [
+      "34572f9875968d9d141bbf8c746081b9921c4260c26d1553b345842c"
+    ],
+    "image": "ADACoin.png",
+    "description": "ADACoins are one of the first collectible and touchable NFTs on Cardano. Collect 5 ident coins with different background to get a real coin.",˝
+    "url": "https://www.adacoins.xyz",
+    "twitter": "https://twitter.com/ADA_Coins_NFT",
+    "voteAddress": "addr1q854ng04npfpldl8yn7a9gh8dakafcyqllefgedken8pynu46s2zxxeava7kas6hdtxj5en67leetdvssl38u433akws5lcmme"
+  },
+
 ]
